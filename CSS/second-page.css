@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: aqua;
+    width: 20%;
+    height: 100%;
+    border-right: 2px solid gray;
+}
+.insta{
+    padding: 30px;
+    
+}
+.home{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.search{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.explore{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.reals{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.message{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.like{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.create{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+
+}
+.profile{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.more{
+    display: flex;
+    gap: 10px;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.icons{
+left: 30px;
+
+}
+.profile{
+    display: flex;
+    gap: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.continer1{
+    background-color: aqua;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    left: 80%;
+    top:130px;
+    
+}
+.continer2{
+    background-color: rgb(0, 17, 255);
+    width: 300px;
+    height: 340px;
+    position: absolute;
+    right: 15%;
+    
+}
+
+.continers{
+    display: flex;
+    gap:10px;
+    /* justify-content: center; */
+    /* padding-top: 40px; */
+}
+.set{
+    display: flex;
+}
+.user{
+    font-size: 50px;
+    padding-top: 30px;
+}
+.info{
+    padding-top: 10px;
+}
+.info-para{
+    padding-top: 10px;
+    
+}
+.savebutton{
+    width: 80%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    border: none;
+}
+.notnow{
+    color: blue;
+    margin-top: 20px;
+}
+.cycle{
+    width: 300px;
+    margin-top: 10px;
+}
+.savepass{
+    padding-left: 30px;
+}
+.username{
+    
+    padding-left: 40px; 
+    
+    
+}
+.usernamebox{
+    height: 40px;
+    margin-top: 20px;
+}
+.continer2-end-button{
+    height: 30px;
+    width: 80px;
+    position: relative;
+    left:  38%;
+    top: 20px;
+}

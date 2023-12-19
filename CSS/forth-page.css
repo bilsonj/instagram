@@ -1,0 +1,96 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+
+    
+    
+    
+}
+.overall{
+    background-color: gray;
+    height: 100%;
+}
+
+
+
+video{
+
+    
+    width: 60%;
+    height: 40%;
+}
+.reals-head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+}
+
+
+.test {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer-left{
+
+/* display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px; */
+
+
+
+}
+.footer-continer{
+    display: flex;
+    justify-content: space-between;
+     background-color: white;
+padding: 10px;
+
+     width: 60%;
+   
+}
+.footer-head{
+
+    display: flex;
+    justify-content: center;
+}
+
+.footer-right{
+    display: flex;
+justify-content: end;
+align-items: center;
+}
+.fa-heart{
+    font-size: xx-large;
+    padding: 10px;
+
+}
+.fa-comment{
+    font-size: xx-large;
+    padding: 10px;
+}
+.fa-bookmark{
+    font-size: xx-large;
+    padding: 10px;
+}
+.fa-paper-plane{
+    font-size: xx-large;
+    padding: 10px;
+}
+
+
+
+
+
