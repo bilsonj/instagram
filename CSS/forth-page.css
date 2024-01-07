@@ -92,5 +92,44 @@ align-items: center;
 
 
 
+@media  screen and (min-width:250px)  and (max-width:500px){
+    .fa-comment{
+    font-size: medium;
+    padding: 3px;
+    
+}
+.fa-paper-plane{
+    font-size: medium;
+    padding: 3px; 
+}
+.fa-heart{
+    font-size: medium;
+    padding: 3px;    
+}
+.fa-bookmark{
+    font-size: medium;
+    padding: 3px;
+}
+}
+@media  screen and (min-width:80px) and (max-width:240px) {
+    .fa-comment{
+    font-size: small;
+    
+    
+}
+.fa-paper-plane{
+    font-size: small;
 
+}
+.fa-heart{
+    font-size: small;
+    
+}
+.fa-bookmark{
+    font-size: small;
+    
+}
+
+
+}
 
